@@ -25,8 +25,7 @@ nav{
 img{
 	height:200px;
 	text-align:left;
-	border-radius:45px;
-	box-shadow:5px 5px 5px #111;
+	border-radius:15px;
 	text-align:center;
 }
 span{
@@ -124,6 +123,7 @@ embed{
 }
 .imagens{
 	display:inline-block;
+	margin-left: 20px;
 
 }
 #video{
