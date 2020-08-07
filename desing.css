@@ -124,7 +124,7 @@ embed{
 }
 .imagens{
 	display:inline-block;
-	margin-left:20px;
+
 }
 #video{
 	color:#ffdeb9;
@@ -134,7 +134,7 @@ embed{
 #texto{
 	margin-top:200px;
 	text-align:center;
-	font-size:40px;
+	font-size:25px;
 	color:#ffdeb9;
 	background-color:#8a5930;
 	opacity:.6;
